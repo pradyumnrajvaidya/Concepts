@@ -36,8 +36,6 @@ The key points mentioned by the speaker are.
 
 - Enhance your own life curriculum. make your own curriculum that makes your dream possible.
 
--
-
 ## Question 5
 
 ### A few points to build Growth Mindset as a Software Developer
